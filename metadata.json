@@ -1,0 +1,8 @@
+{
+  "name": "StrixOS V1.1 Beta",
+  "description": "StrixOS - Management system for Kent Owl Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
